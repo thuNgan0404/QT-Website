@@ -1,0 +1,9 @@
+# Bỏ qua các file cấu hình IDE
+.vscode/
+.idea/
+
+# Bỏ qua các file backup của plugin UpdraftPlus (tránh phình to Repo)
+wp-content/updraft/
+
+# Bỏ qua các file cache (nếu có dùng plugin cache)
+wp-content/cache/
