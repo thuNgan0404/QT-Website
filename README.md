@@ -104,24 +104,6 @@ define( 'DB_HOST',     'localhost' );
 > 💡 Dùng tài khoản `customer01` để xem lịch sử đơn hàng mẫu.  
 > Phương thức thanh toán demo: **Chuyển khoản ngân hàng (COD)**
 
----
-
-## 📁 Cấu Trúc Thư Mục Nộp Bài
-
-```
-📁 GlowShop/
-├── 📁 source_code/
-│   └── glowshop/               ← Toàn bộ thư mục WordPress
-├── 📁 database/
-│   └── glowshop_db.sql         ← File export từ phpMyAdmin
-├── 📁 bao_cao/
-│   └── BaoCao_GlowShop.docx
-├── 📁 slide/
-│   └── Slide_GlowShop.pptx
-├── 📄 HUONG_DAN_GLOWSHOP.md    ← File này
-```
-
----
 
 ## 🔄 Cách Export Database (để backup hoặc nộp bài)
 
